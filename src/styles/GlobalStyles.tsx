@@ -18,6 +18,7 @@ const GlobalStyles = createGlobalStyle`
     --accent-light: #ff9f66;
     
     /* Neutral Colors */
+    
     --dark: #212529;
     --dark-gray: #495057;
     --gray: #6c757d;
